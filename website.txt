@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> Execise 1 </title>
+</head>
+
+<body>
+
+<img src="dog.jpg" alt="a dog">
+
+
+<h3> is this a dog or a cat? </h3>
+<a href="answer2.html">Pick dog</a>
+<a href="answer.html">Pick cat</a>
+
+
+</body>
+</html>
